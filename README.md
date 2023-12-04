@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RockSplendid, working as a BI Developer/Data Engineer.
+- 👋 Hi, I’m **Ali**, working as a BI Developer/Data Engineer.
 - 👀 I’m interested in all senses of data-related problems and algorithms.
 - 💞️ I’m looking to collaborate on any data projects, trying to solve real-world issues in various businesses using programming and algorithmic technics.
 - 📫 How to reach me is via email: a.abdollahi1989@g!
